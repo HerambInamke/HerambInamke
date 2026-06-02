@@ -1,36 +1,19 @@
-<!-- terminal boot -->
-
 <div align="center">
 
 ```bash
- ██╗  ██╗███████╗██████╗  █████╗ ███╗   ███╗██████╗
- ██║  ██║██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗
- ███████║█████╗  ██████╔╝███████║██╔████╔██║██████╔╝
- ██╔══██║██╔══╝  ██╔══██╗██╔══██║██║╚██╔╝██║██╔══██╗
- ██║  ██║███████╗██║  ██║██║  ██║██║ ╚═╝ ██║██████╔╝
- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝
+██╗  ██╗███████╗██████╗  █████╗ ███╗   ███╗██████╗
+██║  ██║██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔══██╗
+███████║█████╗  ██████╔╝███████║██╔████╔██║██████╔╝
+██╔══██║██╔══╝  ██╔══██╗██╔══██║██║╚██╔╝██║██╔══██╗
+██║  ██║███████╗██║  ██║██║  ██║██║ ╚═╝ ██║██████╔╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;Backend+Systems+%2B+System+Design;AI+Integrations+%2B+DevOps;25%2B+Production+Applications;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=7CFF00&center=true&vCenter=true&width=1000&lines=%24+whoami;Heramb+Inamke;%24+cat+experience.log;Atomity+%7C+DevQor+%7C+Open+Source;%24+cat+stats.log;2K%2B+GitHub+Contributions;%24100%2B+Repositories;%24+cat+focus.conf;Backend+Systems+%7C+AI+Engineering+%7C+Cloud;%24+systemctl+status+builder.service;active+(running)" />
 
-<br/>
+<br>
 
-## Full-Stack Engineer • Backend Systems • AI Integrations
-
-Building scalable production-ready applications focused on backend architecture, APIs, distributed systems, and AI-powered workflows.
-
-<br/>
-
-![](https://img.shields.io/badge/25%2B_Production_Apps-00FF41?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/2K%2B_GitHub_Contributions-00FF41?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Open_Source_Contributor-00FF41?style=for-the-badge&labelColor=0d0d0d)
-![](https://img.shields.io/badge/Backend_Engineer-00FF41?style=for-the-badge&labelColor=0d0d0d)
-
-<br/>
-
-<a href="https://github.com/HerambInamke">
-  <img src="https://komarev.com/ghpvc/?username=HerambInamke&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=HerambInamke&color=7CFF00&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -41,113 +24,51 @@ root@heramb:~$ whoami
 ```
 
 ```yaml
-name        : Heramb Inamke
-username    : HerambInamke
+name      : Heramb Inamke
+username  : HerambInamke
 
-role        : Full-Stack Engineer
-speciality  : Backend Systems + AI Integrations
+role:
+  - Software Engineer
+  - Backend Developer
+  - Open Source Contributor
 
-focus:
-  - System Design
-  - Scalable APIs
-  - Cloud & DevOps
+education:
+  - B.Tech Computer Science
+  - MIT ADT University
+  - Kalvium
+
+specialization:
+  - Backend Systems
+  - AI Engineering
   - Distributed Systems
-  - AI-powered Applications
-
-currently:
-  - Building production-grade applications
-  - Contributing to open source
-  - Learning scalable architectures
+  - Cloud Infrastructure
 ```
 
 ---
 
 ```console
-root@heramb:~$ cat oss_impact.log
+root@heramb:~$ neofetch
 ```
 
 ```yaml
-Open Source Impact:
-  github_contributions : 2K+
-  pull_requests_merged : 12+
+OS           : Linux
+Shell        : bash
+Editor       : VS Code
 
-Programs & Communities:
-  - GirlScript Summer of Code (GSSoC)
-  - Hacktoberfest
-  - C4GT Contributor
-
-Contribution Areas:
-  - Backend Engineering
-  - API Development
-  - Documentation
-  - Feature Enhancements
-  - Bug Fixes
-  - Open Source Collaboration
-```
-
----
-
-```console
-root@heramb:~$ ls pinned_projects/
-```
-
-```yaml
-- Emoji Cringe Chronicles
-  stack  : React + Node.js + MongoDB + AI APIs
-  focus  : AI-powered entertainment platform
-
-- TeenHub
-  stack  : MERN + Tailwind CSS
-  focus  : Community & social platform
-
-- AI Civic Issue Reporter
-  stack  : Voice AI + Maps + Backend APIs
-  focus  : Smart civic issue reporting system
-
-- Bookmark Saver
-  stack  : Full-stack productivity application
-  focus  : Intelligent bookmark organization
-```
-
----
-
-```console
-root@heramb:~$ cat expertise.txt
-```
-
-```yaml
 Languages:
-  - Python
   - JavaScript
-  - Java (Spring Boot)
+  - TypeScript
+  - Python
+  - Java
   - C++
 
-Backend & Systems:
+Backend:
   - Node.js
   - Express.js
   - FastAPI
   - Spring Boot
-  - REST API Design
-  - Async Processing
-  - Background Jobs
-  - Caching & Rate Limiting
-  - AI / LLM Integrations
-
-Databases:
-  - MongoDB
-  - PostgreSQL
-  - MySQL
-  - Firebase
-  - CockroachDB
-
-Cloud & DevOps:
-  - Docker
-  - GitHub Actions
-  - AWS (EC2, S3, IAM, Lambda)
-  - Linux
-  - Nginx
-  - Vercel
-  - Cloudflare
+  - REST APIs
+  - JWT Authentication
 
 Frontend:
   - React
@@ -155,25 +76,140 @@ Frontend:
   - Angular
   - Tailwind CSS
 
-Security:
-  - JWT Authentication
-  - API Security
-  - OWASP Basics
+Databases:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - Redis
+  - Firebase
+
+Cloud:
+  - AWS
+  - Docker
+  - GitHub Actions
+  - Linux
+  - Nginx
+  - Cloudflare
 ```
 
 ---
 
 ```console
-root@heramb:~$ ls current_focus/
+root@heramb:~$ cat github.stats
 ```
 
-```bash
-backend_scaling.md
-system_design.md
-distributed_systems.md
-ai_integrations.md
-devops.md
-cyber_security.md
+```yaml
+repositories:
+  public: 100+
+
+contributions:
+  github: 2,000+
+
+production_apps:
+  live: 10+
+
+open_source:
+  merged_prs: 10+
+  programs:
+    - GirlScript Summer of Code
+    - Hacktoberfest
+    - C4GT
+
+experience:
+  - Atomity GmbH
+  - DevQor Tech Pvt Ltd
+  - IISPPR
+```
+
+---
+
+```console
+root@heramb:~$ cat current_focus.conf
+```
+
+```yaml
+focus:
+  - Backend Architecture
+  - System Design
+  - Distributed Systems
+  - AI Integrations
+  - DevOps
+  - Cloud Infrastructure
+```
+
+---
+
+```console
+root@heramb:~$ tree experience/
+```
+
+```text
+experience
+├── atomity
+│   ├── FinOps Engineering
+│   ├── Cloud Cost Analytics
+│   ├── Performance Optimization
+│   └── Enterprise Dashboard Systems
+│
+├── devqor
+│   ├── SaaS Product Development
+│   ├── Backend APIs
+│   ├── Database Architecture
+│   └── Full Stack Engineering
+│
+└── iisppr
+    ├── Team Leadership
+    ├── System Architecture
+    ├── Verification Platform
+    └── NGO Technology Solutions
+```
+
+---
+
+```console
+root@heramb:~$ ls featured_projects/
+```
+
+```yaml
+LLM-Council:
+  type: Multi-model AI consensus engine
+
+DMS-LUX:
+  type: Real-time ride booking platform
+
+TeenHub:
+  type: Community platform
+
+AI-Civic-Reporter:
+  type: Voice-powered civic reporting
+
+Bookmark-Saver:
+  type: Intelligent bookmark management
+
+DSA-Open-Source:
+  type: Interview preparation repository
+```
+
+---
+
+```console
+root@heramb:~$ cat open_source.log
+```
+
+```yaml
+programs:
+  - GirlScript Summer of Code
+  - Hacktoberfest
+  - C4GT
+
+contributions:
+  merged_prs: 10+
+
+focus:
+  - Backend Development
+  - API Engineering
+  - Documentation
+  - Community Collaboration
 ```
 
 ---
@@ -183,40 +219,39 @@ root@heramb:~$ cat achievements.log
 ```
 
 ```yaml
-Hackathons:
-  - 1st Place  : Kod-E-Thon '25
-  - 3rd Place  : Udaan '25
-  - Top 5      : WCE Sangli
+hackathons:
+  - 1st Place : Kod-E-Thon '25
+  - 3rd Place : Udaan '25
+  - Top 5     : WCE Sangli
 
-Leadership:
-  - Led contributor collaborations
-  - Built and shipped production systems
-  - Managed end-to-end application workflows
+community:
+  - 2K+ GitHub Contributions
+  - 100+ Public Repositories
+  - 10+ Production Applications
+
+open_source:
+  - GSSoC Contributor
+  - Hacktoberfest Contributor
+  - C4GT Contributor
 ```
 
 ---
 
 ```console
-root@heramb:~$ ./stats.sh
+root@heramb:~$ tree certifications/
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HerambInamke&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HerambInamke&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41" height="170"/>
-
-</div>
-
----
-
-```console
-root@heramb:~$ cat contribution_graph
+```text
+certifications
+├── Claude API
+├── Claude Code
+├── Model Context Protocol
+├── IBM AI Agent
+├── AWS SaaS Fundamentals
+├── Responsive Web Design
+├── JavaScript Algorithms
+└── Data Visualization
 ```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HerambInamke/HerambInamke/output/snake.svg" />
-</div>
 
 ---
 
@@ -225,17 +260,88 @@ root@heramb:~$ cat connect.ini
 ```
 
 ```ini
-github   = https://github.com/HerambInamke
-linkedin = https://www.linkedin.com/in/herambinamke1501/
-holopin  = https://holopin.io/@herambinamke
+github   = github.com/HerambInamke
+linkedin = linkedin.com/in/herambinamke1501
+email    = heramb15012006@gmail.com
+holopin  = holopin.io/@herambinamke
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+scalable+systems...;Shipping+production+software...;Contributing+to+open+source...;Learning+every+single+day..." />
+
+</div>
+
+---
+
+```console
+root@heramb:~$ uptime
+```
+
+```yaml
+status:
+  engineering  : active
+  learning     : active
+  building     : active
+  contributing : active
+
+current_mission:
+  - Backend Systems
+  - Distributed Architecture
+  - AI Applications
+  - Open Source Software
 ```
 
 ---
 
 ```console
-root@heramb:~$ echo "building scalable systems..."
+root@heramb:~$ git log --author="Heramb" --oneline | head
 ```
 
-```bash
-> status: online
+```text
+2K+ Contributions
+100+ Public Repositories
+10+ Production Applications
+10+ Merged Open Source PRs
 ```
+
+---
+
+```console
+root@heramb:~$ echo $PHILOSOPHY
+```
+
+```text
+Build useful things.
+Solve real problems.
+Keep shipping.
+Stay curious.
+```
+
+---
+
+```console
+root@heramb:~$ exit
+```
+
+```text
+logout
+
+Connection to github.com closed.
+
+Session terminated successfully.
+```
+
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Last Login : Today
+
+Builder Service : Active
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
