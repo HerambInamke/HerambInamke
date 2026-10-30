@@ -1,31 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="490" height="514" viewBox="0 0 490 514" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="535" viewBox="0 0 490 535" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
 <style>.l{animation:in .35s ease-out both}@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}</style>
-<rect width="490" height="514" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="535" rx="10" fill="#0d1117" stroke="#30363d"/>
 <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
 <circle cx="38" cy="22" r="5" fill="#ffbd2e"/>
 <circle cx="54" cy="22" r="5" fill="#27c93f"/>
 <text x="245.0" y="26" fill="#7d8590" text-anchor="middle" font-size="12">heramb@github: ~</text>
 <text x="22" y="63" class="l" style="animation-delay:0.60s"><tspan fill="#58a6ff" font-weight="bold">heramb</tspan><tspan fill="#c9d1d9">@github</tspan></text>
 <text x="22" y="84" class="l" style="animation-delay:0.69s"><tspan fill="#7d8590">----------------------------------</tspan></text>
-<text x="22" y="105" class="l" style="animation-delay:0.78s"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan x="114" fill="#c9d1d9">Software Engineer · Backend</tspan></text>
-<text x="22" y="126" class="l" style="animation-delay:0.87s"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan x="114" fill="#c9d1d9">Atomity GmbH — FinOps Engineering</tspan></text>
-<text x="22" y="147" class="l" style="animation-delay:0.96s"><tspan fill="#39d353" font-weight="bold">Prev</tspan><tspan x="114" fill="#c9d1d9">DevQor Tech · IISPPR (Team Lead)</tspan></text>
-<text x="22" y="168" class="l" style="animation-delay:1.05s"><tspan fill="#39d353" font-weight="bold">Edu</tspan><tspan x="114" fill="#c9d1d9">B.Tech CSE · MIT ADT · Kalvium</tspan></text>
-<text x="22" y="210" class="l" style="animation-delay:1.23s"><tspan fill="#39d353" font-weight="bold">Lang</tspan><tspan x="114" fill="#c9d1d9">TypeScript · Python · Java · C++</tspan></text>
-<text x="22" y="231" class="l" style="animation-delay:1.32s"><tspan fill="#39d353" font-weight="bold">Backend</tspan><tspan x="114" fill="#c9d1d9">Node · Express · FastAPI · Spring</tspan></text>
-<text x="22" y="252" class="l" style="animation-delay:1.41s"><tspan fill="#39d353" font-weight="bold">Frontend</tspan><tspan x="114" fill="#c9d1d9">React · Next.js · Angular</tspan></text>
-<text x="22" y="273" class="l" style="animation-delay:1.50s"><tspan fill="#39d353" font-weight="bold">Data</tspan><tspan x="114" fill="#c9d1d9">PostgreSQL · MongoDB · Redis</tspan></text>
-<text x="22" y="294" class="l" style="animation-delay:1.59s"><tspan fill="#39d353" font-weight="bold">Cloud</tspan><tspan x="114" fill="#c9d1d9">AWS · Docker · Nginx · Actions</tspan></text>
-<text x="22" y="315" class="l" style="animation-delay:1.68s"><tspan fill="#39d353" font-weight="bold">Focus</tspan><tspan x="114" fill="#c9d1d9">Distributed systems · AI apps</tspan></text>
-<text x="22" y="357" class="l" style="animation-delay:1.86s"><tspan fill="#39d353" font-weight="bold">Repos</tspan><tspan x="114" fill="#c9d1d9">100+ public · 10+ prod apps</tspan></text>
-<text x="22" y="378" class="l" style="animation-delay:1.95s"><tspan fill="#39d353" font-weight="bold">OSS</tspan><tspan x="114" fill="#c9d1d9">GSSoC · Hacktoberfest · C4GT</tspan></text>
-<text x="22" y="399" class="l" style="animation-delay:2.04s"><tspan fill="#39d353" font-weight="bold">Hacks</tspan><tspan x="114" fill="#c9d1d9">1st Kod-E-Thon &#x27;25 · 3rd Udaan &#x27;25</tspan></text>
-<text x="22" y="441" class="l" style="animation-delay:2.22s"><tspan fill="#39d353" font-weight="bold">LinkedIn</tspan><tspan x="114" fill="#c9d1d9">in/herambinamke1501</tspan></text>
-<text x="22" y="462" class="l" style="animation-delay:2.31s"><tspan fill="#39d353" font-weight="bold">Mail</tspan><tspan x="114" fill="#c9d1d9">heramb15012006@gmail.com</tspan></text>
-<rect x="22" y="482" width="18" height="10" rx="2" fill="#ff7b72"/>
-<rect x="44" y="482" width="18" height="10" rx="2" fill="#ffa657"/>
-<rect x="66" y="482" width="18" height="10" rx="2" fill="#d2a8ff"/>
-<rect x="88" y="482" width="18" height="10" rx="2" fill="#58a6ff"/>
-<rect x="110" y="482" width="18" height="10" rx="2" fill="#39d353"/>
-<rect x="132" y="482" width="18" height="10" rx="2" fill="#c9d1d9"/>
+<text x="22" y="105" class="l" style="animation-delay:0.78s"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan x="114" fill="#c9d1d9">Software Engineer · FinOps · Full Stack</tspan></text>
+<text x="22" y="126" class="l" style="animation-delay:0.87s"><tspan fill="#39d353" font-weight="bold">FDE</tspan><tspan x="114" fill="#c9d1d9">Forward Deployed Engineer</tspan></text>
+<text x="22" y="147" class="l" style="animation-delay:0.96s"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan x="114" fill="#c9d1d9">Atomity GmbH — FinOps Engineering</tspan></text>
+<text x="22" y="168" class="l" style="animation-delay:1.05s"><tspan fill="#39d353" font-weight="bold">Prev</tspan><tspan x="114" fill="#c9d1d9">DevQor Tech · IISPPR (Team Lead)</tspan></text>
+<text x="22" y="189" class="l" style="animation-delay:1.14s"><tspan fill="#39d353" font-weight="bold">Edu</tspan><tspan x="114" fill="#c9d1d9">B.Tech CSE · MIT ADT · Kalvium</tspan></text>
+<text x="22" y="231" class="l" style="animation-delay:1.32s"><tspan fill="#39d353" font-weight="bold">Lang</tspan><tspan x="114" fill="#c9d1d9">TypeScript · Python · Java · C++</tspan></text>
+<text x="22" y="252" class="l" style="animation-delay:1.41s"><tspan fill="#39d353" font-weight="bold">Backend</tspan><tspan x="114" fill="#c9d1d9">Node · Express · FastAPI · Spring</tspan></text>
+<text x="22" y="273" class="l" style="animation-delay:1.50s"><tspan fill="#39d353" font-weight="bold">Frontend</tspan><tspan x="114" fill="#c9d1d9">React · Next.js · Angular</tspan></text>
+<text x="22" y="294" class="l" style="animation-delay:1.59s"><tspan fill="#39d353" font-weight="bold">Data</tspan><tspan x="114" fill="#c9d1d9">PostgreSQL · MongoDB · Redis</tspan></text>
+<text x="22" y="315" class="l" style="animation-delay:1.68s"><tspan fill="#39d353" font-weight="bold">Cloud</tspan><tspan x="114" fill="#c9d1d9">AWS · Docker · Nginx · Actions</tspan></text>
+<text x="22" y="336" class="l" style="animation-delay:1.77s"><tspan fill="#39d353" font-weight="bold">Focus</tspan><tspan x="114" fill="#c9d1d9">Distributed systems · AI apps</tspan></text>
+<text x="22" y="378" class="l" style="animation-delay:1.95s"><tspan fill="#39d353" font-weight="bold">Repos</tspan><tspan x="114" fill="#c9d1d9">100+ public · 10+ prod apps</tspan></text>
+<text x="22" y="399" class="l" style="animation-delay:2.04s"><tspan fill="#39d353" font-weight="bold">OSS</tspan><tspan x="114" fill="#c9d1d9">GSSoC · Hacktoberfest · C4GT</tspan></text>
+<text x="22" y="420" class="l" style="animation-delay:2.13s"><tspan fill="#39d353" font-weight="bold">Hacks</tspan><tspan x="114" fill="#c9d1d9">1st Kod-E-Thon &#x27;25 · 3rd Udaan &#x27;25</tspan></text>
+<text x="22" y="462" class="l" style="animation-delay:2.31s"><tspan fill="#39d353" font-weight="bold">LinkedIn</tspan><tspan x="114" fill="#c9d1d9">in/herambinamke1501</tspan></text>
+<text x="22" y="483" class="l" style="animation-delay:2.40s"><tspan fill="#39d353" font-weight="bold">Mail</tspan><tspan x="114" fill="#c9d1d9">heramb15012006@gmail.com</tspan></text>
+<rect x="22" y="503" width="18" height="10" rx="2" fill="#ff7b72"/>
+<rect x="44" y="503" width="18" height="10" rx="2" fill="#ffa657"/>
+<rect x="66" y="503" width="18" height="10" rx="2" fill="#d2a8ff"/>
+<rect x="88" y="503" width="18" height="10" rx="2" fill="#58a6ff"/>
+<rect x="110" y="503" width="18" height="10" rx="2" fill="#39d353"/>
+<rect x="132" y="503" width="18" height="10" rx="2" fill="#c9d1d9"/>
 </svg>

@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝
 ```
 
-**Software Engineer · Backend Systems · AI Engineering · Open Source**
+**Software Engineer · Forward Deployed Engineer (FDE) · AI Engineering · Open Source**
 
 <h3><code>heramb@github ~ $ neofetch</code></h3>
 <img src="./info-card.svg" width="490" alt="Role, stack and highlights" />

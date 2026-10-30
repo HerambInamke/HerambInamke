@@ -11,6 +11,7 @@ LINES = [
     ("heramb", "@github"),
     (None, "-" * 34),
     ("Role", "Software Engineer · FinOps · Full Stack"),
+    ("FDE", "Forward Deployed Engineer"),
     ("Now", "Atomity GmbH — FinOps Engineering"),
     ("Prev", "DevQor Tech · IISPPR (Team Lead)"),
     ("Edu", "B.Tech CSE · MIT ADT · Kalvium"),
