@@ -10,7 +10,7 @@ KEY, VAL, DIM, ACC = "#39d353", "#c9d1d9", "#7d8590", "#58a6ff"
 LINES = [
     ("heramb", "@github"),
     (None, "-" * 34),
-    ("Role", "Software Engineer · Backend"),
+    ("Role", "Software Engineer · FinOps · Full Stack"),
     ("Now", "Atomity GmbH — FinOps Engineering"),
     ("Prev", "DevQor Tech · IISPPR (Team Lead)"),
     ("Edu", "B.Tech CSE · MIT ADT · Kalvium"),
