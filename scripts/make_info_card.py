@@ -3,7 +3,7 @@ import os
 from html import escape
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent.parent / "info-card.svg"
+OUT = Path(__file__).resolve().parent.parent / "assets" / "info-card.svg"
 KEY, VAL, DIM, ACC = "#39d353", "#c9d1d9", "#7d8590", "#58a6ff"
 
 # (key, value); key None = section header, ("", "") = blank line

@@ -5,7 +5,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 USER = "HerambInamke"
-OUT = Path(__file__).resolve().parent.parent / "contrib-heatmap.svg"
+OUT = Path(__file__).resolve().parent.parent / "assets" / "contrib-heatmap.svg"
 PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 CELL, GAP, LEFT, TOP = 12, 3, 34, 22
 PITCH = CELL + GAP

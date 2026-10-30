@@ -12,12 +12,12 @@
 **Software Engineer · Forward Deployed Engineer · AI Engineering · Open Source**
 
 <h3><code>heramb@github ~ $ neofetch</code></h3>
-<img src="./info-card.svg" width="490" alt="Role, stack and highlights" />
+<img src="./assets/info-card.svg" width="490" alt="Role, stack and highlights" />
 
 <br><br>
 
 <h3><code>heramb@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph, refreshed daily" />
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Contribution graph, refreshed daily" />
 
 </div>
 
@@ -115,5 +115,9 @@ Build useful things. Solve real problems. Keep shipping. Stay curious.
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=HerambInamke&color=39d353&style=flat-square&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<a href="https://holopin.io/@herambinamke"><img src="./assets/holopin-badges.png" width="860" alt="Holopin badges" /></a>
 
 </div>
