@@ -55,7 +55,8 @@ for i, (k, v) in enumerate(LINES):
     elif not k:
         continue
     else:
-        body = f'<tspan fill="{KEY}" font-weight="bold">{k}</tspan><tspan x="{PAD + KW}" fill="{VAL}">{escape(v)}</tspan>'
+        style = ' fill="#d2a8ff" font-weight="bold" font-style="italic"' if k in ("Role", "FDE") else f' fill="{VAL}"'
+        body = f'<tspan fill="{KEY}" font-weight="bold">{k}</tspan><tspan x="{PAD + KW}"{style}>{escape(v)}</tspan>'
     out.append(f'<text x="{PAD}" y="{y}"{attr}>{body}</text>')
 
 palette_y = H - PAD + 2
